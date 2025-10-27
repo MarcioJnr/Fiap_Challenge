@@ -88,6 +88,29 @@ Você precisará executar a API e a Aplicação Web separadamente.
 5.  Cole o token (sem a palavra "Bearer ") na caixa de texto e clique em "Authorize".
 6.  Agora você pode testar os outros endpoints protegidos da API.
 
+## Testes Unitários
+
+O projeto inclui testes unitários para validar a lógica dos serviços da camada de aplicação (`FiapChallenge.Application`). Os testes cobrem as funcionalidades principais dos serviços `AlunoService`, `TurmaService`, `MatriculaService` e `AuthService`.
+
+**Tecnologias Utilizadas nos Testes:**
+* **xUnit:** Framework de testes.
+* **FluentAssertions:** Biblioteca para asserções mais legíveis.
+* **Entity Framework Core In-Memory Database:** Para simular o banco de dados em memória durante os testes, isolando-os do banco real.
+
+**Executando os Testes:**
+
+1.  Abra um terminal na pasta raiz da solução (onde está o arquivo `FiapChallenge.sln`).
+2.  Execute o comando:
+    ```bash
+    dotnet test
+    ```
+    * Alternativamente, você pode navegar até a pasta do projeto de testes e executar o mesmo comando:
+        ```bash
+        cd FiapChallenge.Tests
+        dotnet test
+        ```
+3.  O terminal exibirá o resultado da execução dos testes (quantos passaram, falharam ou foram ignorados).
+
 ## Estrutura do Projeto
 
 * `FiapChallenge.API`: Projeto ASP.NET Core Web API (controladores, configuração, autenticação).
