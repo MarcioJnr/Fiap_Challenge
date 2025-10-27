@@ -1,0 +1,1235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MJ\\Desktop\\Fiap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|solutionrelative:fiapchallenge.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D87F3B-9B13-41FF-A048-9FF2E6DE2C4D}|FiapChallenge.Tests\\FiapChallenge.Tests.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.tests\\turmaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D87F3B-9B13-41FF-A048-9FF2E6DE2C4D}|FiapChallenge.Tests\\FiapChallenge.Tests.csproj|solutionrelative:fiapchallenge.tests\\turmaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D87F3B-9B13-41FF-A048-9FF2E6DE2C4D}|FiapChallenge.Tests\\FiapChallenge.Tests.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.tests\\matriculaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D87F3B-9B13-41FF-A048-9FF2E6DE2C4D}|FiapChallenge.Tests\\FiapChallenge.Tests.csproj|solutionrelative:fiapchallenge.tests\\matriculaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D87F3B-9B13-41FF-A048-9FF2E6DE2C4D}|FiapChallenge.Tests\\FiapChallenge.Tests.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D87F3B-9B13-41FF-A048-9FF2E6DE2C4D}|FiapChallenge.Tests\\FiapChallenge.Tests.csproj|solutionrelative:fiapchallenge.tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D87F3B-9B13-41FF-A048-9FF2E6DE2C4D}|FiapChallenge.Tests\\FiapChallenge.Tests.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.tests\\alunoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D87F3B-9B13-41FF-A048-9FF2E6DE2C4D}|FiapChallenge.Tests\\FiapChallenge.Tests.csproj|solutionrelative:fiapchallenge.tests\\alunoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.application\\services\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|solutionrelative:fiapchallenge.application\\services\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.application\\services\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|solutionrelative:fiapchallenge.application\\services\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF55F08A-B313-4CF0-9052-C7ACF63C8BD5}|FiapChallenge.Domain\\FiapChallenge.Domain.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.domain\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF55F08A-B313-4CF0-9052-C7ACF63C8BD5}|FiapChallenge.Domain\\FiapChallenge.Domain.csproj|solutionrelative:fiapchallenge.domain\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.application\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|solutionrelative:fiapchallenge.application\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF55F08A-B313-4CF0-9052-C7ACF63C8BD5}|FiapChallenge.Domain\\FiapChallenge.Domain.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.domain\\entities\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF55F08A-B313-4CF0-9052-C7ACF63C8BD5}|FiapChallenge.Domain\\FiapChallenge.Domain.csproj|solutionrelative:fiapchallenge.domain\\entities\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF55F08A-B313-4CF0-9052-C7ACF63C8BD5}|FiapChallenge.Domain\\FiapChallenge.Domain.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.domain\\entities\\vwturmascomaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF55F08A-B313-4CF0-9052-C7ACF63C8BD5}|FiapChallenge.Domain\\FiapChallenge.Domain.csproj|solutionrelative:fiapchallenge.domain\\entities\\vwturmascomaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF55F08A-B313-4CF0-9052-C7ACF63C8BD5}|FiapChallenge.Domain\\FiapChallenge.Domain.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.domain\\entities\\vwalunoscomturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF55F08A-B313-4CF0-9052-C7ACF63C8BD5}|FiapChallenge.Domain\\FiapChallenge.Domain.csproj|solutionrelative:fiapchallenge.domain\\entities\\vwalunoscomturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF55F08A-B313-4CF0-9052-C7ACF63C8BD5}|FiapChallenge.Domain\\FiapChallenge.Domain.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF55F08A-B313-4CF0-9052-C7ACF63C8BD5}|FiapChallenge.Domain\\FiapChallenge.Domain.csproj|solutionrelative:fiapchallenge.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF55F08A-B313-4CF0-9052-C7ACF63C8BD5}|FiapChallenge.Domain\\FiapChallenge.Domain.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.domain\\entities\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF55F08A-B313-4CF0-9052-C7ACF63C8BD5}|FiapChallenge.Domain\\FiapChallenge.Domain.csproj|solutionrelative:fiapchallenge.domain\\entities\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8994F219-BB6E-4902-ACAC-55F2A985CC47}|FiapChallenge.Infrastructure\\FiapChallenge.Infrastructure.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8994F219-BB6E-4902-ACAC-55F2A985CC47}|FiapChallenge.Infrastructure\\FiapChallenge.Infrastructure.csproj|solutionrelative:fiapchallenge.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.api\\authentication\\jwtauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|solutionrelative:fiapchallenge.api\\authentication\\jwtauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|solutionrelative:fiapchallenge.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.application\\validators\\alunovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|solutionrelative:fiapchallenge.application\\validators\\alunovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.api\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|solutionrelative:fiapchallenge.api\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\models\\matriculaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\models\\matriculaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\matriculas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\matriculas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.application\\services\\imatriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|solutionrelative:fiapchallenge.application\\services\\imatriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.api\\controllers\\matriculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|solutionrelative:fiapchallenge.api\\controllers\\matriculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\matriculas\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\matriculas\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\turmas\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\turmas\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\alunos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\alunos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\matriculas\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\matriculas\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\matriculas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\matriculas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\matriculas\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\matriculas\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\matriculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\matriculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\models\\turmacomalunosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\models\\turmacomalunosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\turmas\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\turmas\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\turmas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\turmas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\alunos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\alunos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.application\\services\\iturmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|solutionrelative:fiapchallenge.application\\services\\iturmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.api\\controllers\\turmascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|solutionrelative:fiapchallenge.api\\controllers\\turmascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|solutionrelative:fiapchallenge.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.application\\services\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|solutionrelative:fiapchallenge.application\\services\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|solutionrelative:fiapchallenge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.application\\fiapchallenge.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|solutionrelative:fiapchallenge.application\\fiapchallenge.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\turmas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\turmas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\turmas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\turmas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\alunos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\alunos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\alunos\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\alunos\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\turmas\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\turmas\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\turmas\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\turmas\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.api\\fiapchallenge.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3E2D02B-505D-4FEA-84F3-A63F53397C83}|FiapChallenge.API\\FiapChallenge.API.csproj|solutionrelative:fiapchallenge.api\\fiapchallenge.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|solutionrelative:fiapchallenge.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\models\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\models\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\turmas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\turmas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\alunos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\alunos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\models\\turmaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\models\\turmaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.web\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D337B6C-3D3B-4082-851B-6690A442C613}|FiapChallenge.Web\\FiapChallenge.Web.csproj|solutionrelative:fiapchallenge.web\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|solutionrelative:fiapchallenge.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D87F3B-9B13-41FF-A048-9FF2E6DE2C4D}|FiapChallenge.Tests\\FiapChallenge.Tests.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.tests\\fiapchallenge.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1D87F3B-9B13-41FF-A048-9FF2E6DE2C4D}|FiapChallenge.Tests\\FiapChallenge.Tests.csproj|solutionrelative:fiapchallenge.tests\\fiapchallenge.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8994F219-BB6E-4902-ACAC-55F2A985CC47}|FiapChallenge.Infrastructure\\FiapChallenge.Infrastructure.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.infrastructure\\fiapchallenge.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8994F219-BB6E-4902-ACAC-55F2A985CC47}|FiapChallenge.Infrastructure\\FiapChallenge.Infrastructure.csproj|solutionrelative:fiapchallenge.infrastructure\\fiapchallenge.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF55F08A-B313-4CF0-9052-C7ACF63C8BD5}|FiapChallenge.Domain\\FiapChallenge.Domain.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.domain\\fiapchallenge.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF55F08A-B313-4CF0-9052-C7ACF63C8BD5}|FiapChallenge.Domain\\FiapChallenge.Domain.csproj|solutionrelative:fiapchallenge.domain\\fiapchallenge.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.application\\validators\\turmavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|solutionrelative:fiapchallenge.application\\validators\\turmavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.application\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|solutionrelative:fiapchallenge.application\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.application\\dtos\\matriculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|solutionrelative:fiapchallenge.application\\dtos\\matriculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.application\\dtos\\turmadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|solutionrelative:fiapchallenge.application\\dtos\\turmadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|c:\\users\\mj\\desktop\\fiap\\fiapchallenge.application\\dtos\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE0E728-42A6-4FBB-9E86-ACE4D4F263F1}|FiapChallenge.Application\\FiapChallenge.Application.csproj|solutionrelative:fiapchallenge.application\\dtos\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TurmaService.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Services\\TurmaService.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Application\\Services\\TurmaService.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Services\\TurmaService.cs",
+              "RelativeToolTip": "FiapChallenge.Application\\Services\\TurmaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:26:00.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Tests\\AlunoServiceTests.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Tests\\AlunoServiceTests.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Tests\\AlunoServiceTests.cs",
+              "RelativeToolTip": "FiapChallenge.Tests\\AlunoServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:29:50.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Tests\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Tests\\AuthServiceTests.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Tests\\AuthServiceTests.cs",
+              "RelativeToolTip": "FiapChallenge.Tests\\AuthServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T01:39:19.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatriculaServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Tests\\MatriculaServiceTests.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Tests\\MatriculaServiceTests.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Tests\\MatriculaServiceTests.cs",
+              "RelativeToolTip": "FiapChallenge.Tests\\MatriculaServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:39:48.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TurmaServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Tests\\TurmaServiceTests.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Tests\\TurmaServiceTests.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Tests\\TurmaServiceTests.cs",
+              "RelativeToolTip": "FiapChallenge.Tests\\TurmaServiceTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAywBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:40:16.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FiapChallenge.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:44:39.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MatriculaService.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Services\\MatriculaService.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Application\\Services\\MatriculaService.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Services\\MatriculaService.cs",
+              "RelativeToolTip": "FiapChallenge.Application\\Services\\MatriculaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:27:20.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Domain\\Entities\\Aluno.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Domain\\Entities\\Aluno.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Domain\\Entities\\Aluno.cs",
+              "RelativeToolTip": "FiapChallenge.Domain\\Entities\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:59:55.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Services\\AlunoService.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Application\\Services\\AlunoService.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Services\\AlunoService.cs",
+              "RelativeToolTip": "FiapChallenge.Application\\Services\\AlunoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:25:06.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Domain\\Entities\\Matricula.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Domain\\Entities\\Matricula.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Domain\\Entities\\Matricula.cs",
+              "RelativeToolTip": "FiapChallenge.Domain\\Entities\\Matricula.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:00:15.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VwTurmasComAluno.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Domain\\Entities\\VwTurmasComAluno.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Domain\\Entities\\VwTurmasComAluno.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Domain\\Entities\\VwTurmasComAluno.cs",
+              "RelativeToolTip": "FiapChallenge.Domain\\Entities\\VwTurmasComAluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:00:35.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VwAlunosComTurma.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Domain\\Entities\\VwAlunosComTurma.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Domain\\Entities\\VwAlunosComTurma.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Domain\\Entities\\VwAlunosComTurma.cs",
+              "RelativeToolTip": "FiapChallenge.Domain\\Entities\\VwAlunosComTurma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:59:18.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "FiapChallenge.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:00:29.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Turma.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Domain\\Entities\\Turma.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Domain\\Entities\\Turma.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Domain\\Entities\\Turma.cs",
+              "RelativeToolTip": "FiapChallenge.Domain\\Entities\\Turma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:00:24.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FiapChallenge.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:57:09.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Alunos\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Alunos\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Alunos\\Create.cshtml.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Alunos\\Create.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwC4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:16:49.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.API\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "FiapChallenge.API\\Controllers\\AlunosController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAuwIMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:45:21.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AlunoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Validators\\AlunoValidator.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Application\\Validators\\AlunoValidator.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Validators\\AlunoValidator.cs",
+              "RelativeToolTip": "FiapChallenge.Application\\Validators\\AlunoValidator.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwHAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:16:49.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IMatriculaService.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Services\\IMatriculaService.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Application\\Services\\IMatriculaService.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Services\\IMatriculaService.cs",
+              "RelativeToolTip": "FiapChallenge.Application\\Services\\IMatriculaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:26:29.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Turmas\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Turmas\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Turmas\\Edit.cshtml.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Turmas\\Edit.cshtml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:22:15.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FiapChallenge.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\appsettings.json",
+              "RelativeToolTip": "FiapChallenge.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T22:57:49.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtAuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\Authentication\\JwtAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.API\\Authentication\\JwtAuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\Authentication\\JwtAuthenticationHandler.cs",
+              "RelativeToolTip": "FiapChallenge.API\\Authentication\\JwtAuthenticationHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T19:20:39.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Services\\ApiService.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Services\\ApiService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAUwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T14:05:11.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MatriculaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Models\\MatriculaViewModel.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Models\\MatriculaViewModel.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Models\\MatriculaViewModel.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Models\\MatriculaViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T14:00:14.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Matriculas\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Matriculas\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Matriculas\\Delete.cshtml.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Matriculas\\Delete.cshtml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:33:48.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Alunos\\Create.cshtml",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Alunos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Alunos\\Create.cshtml",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Alunos\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAlwDEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T15:16:40.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MatriculasController.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\Controllers\\MatriculasController.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.API\\Controllers\\MatriculasController.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\Controllers\\MatriculasController.cs",
+              "RelativeToolTip": "FiapChallenge.API\\Controllers\\MatriculasController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA0wGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:46:05.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Matriculas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Matriculas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Matriculas\\Delete.cshtml",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Matriculas\\Delete.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T15:19:47.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Matriculas\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Matriculas\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Matriculas\\Create.cshtml.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Matriculas\\Create.cshtml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwDcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:19:29.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Matriculas\\Create.cshtml",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Matriculas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Matriculas\\Create.cshtml",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Matriculas\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T15:19:22.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Matriculas\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Matriculas\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Matriculas\\Index.cshtml.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Matriculas\\Index.cshtml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:20:17.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Matriculas\\Index.cshtml",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Matriculas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Matriculas\\Index.cshtml",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Matriculas\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAUwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T15:20:09.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Turmas\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Turmas\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Turmas\\Index.cshtml.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Turmas\\Index.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:22:32.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Turmas\\Index.cshtml",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Turmas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Turmas\\Index.cshtml",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Turmas\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T15:22:25.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Alunos\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Alunos\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Alunos\\Index.cshtml.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Alunos\\Index.cshtml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:18:33.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Alunos\\Index.cshtml",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Alunos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Alunos\\Index.cshtml",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Alunos\\Index.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T15:18:24.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Alunos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Alunos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Alunos\\Edit.cshtml",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Alunos\\Edit.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T15:17:43.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TurmaComAlunosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Models\\TurmaComAlunosViewModel.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Models\\TurmaComAlunosViewModel.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Models\\TurmaComAlunosViewModel.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Models\\TurmaComAlunosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:08:51.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ITurmaService.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Services\\ITurmaService.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Application\\Services\\ITurmaService.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Services\\ITurmaService.cs",
+              "RelativeToolTip": "FiapChallenge.Application\\Services\\ITurmaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:25:41.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TurmasController.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\Controllers\\TurmasController.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.API\\Controllers\\TurmasController.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\Controllers\\TurmasController.cs",
+              "RelativeToolTip": "FiapChallenge.API\\Controllers\\TurmasController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAADwv30AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:45:43.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Program.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Program.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAlwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:58:27.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Alunos\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Alunos\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Alunos\\Edit.cshtml.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Alunos\\Edit.cshtml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:17:47.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\Program.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.API\\Program.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\Program.cs",
+              "RelativeToolTip": "FiapChallenge.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:46:22.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FiapChallenge.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FiapChallenge.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T00:58:40.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FiapChallenge.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\FiapChallenge.Application.csproj",
+              "RelativeDocumentMoniker": "FiapChallenge.Application\\FiapChallenge.Application.csproj",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\FiapChallenge.Application.csproj",
+              "RelativeToolTip": "FiapChallenge.Application\\FiapChallenge.Application.csproj",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T23:27:25.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IAlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Services\\IAlunoService.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Application\\Services\\IAlunoService.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Services\\IAlunoService.cs",
+              "RelativeToolTip": "FiapChallenge.Application\\Services\\IAlunoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:24:42.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Turmas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Turmas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Turmas\\Edit.cshtml",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Turmas\\Edit.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T15:22:08.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Turmas\\Create.cshtml",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Turmas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Turmas\\Create.cshtml",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Turmas\\Create.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T15:21:15.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Alunos\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Alunos\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Alunos\\Delete.cshtml.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Alunos\\Delete.cshtml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:17:22.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Turmas\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Turmas\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Turmas\\Delete.cshtml.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Turmas\\Delete.cshtml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:21:50.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Turmas\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Turmas\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Turmas\\Create.cshtml.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Turmas\\Create.cshtml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:21:21.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FiapChallenge.API.csproj",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\FiapChallenge.API.csproj",
+              "RelativeDocumentMoniker": "FiapChallenge.API\\FiapChallenge.API.csproj",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.API\\FiapChallenge.API.csproj",
+              "RelativeToolTip": "FiapChallenge.API\\FiapChallenge.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T23:02:19.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\appsettings.json",
+              "RelativeToolTip": "FiapChallenge.Web\\appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-25T13:58:38.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "FiapChallenge.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:22:12.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T14:04:19.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PaginatedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Models\\PaginatedResponse.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Models\\PaginatedResponse.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Models\\PaginatedResponse.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Models\\PaginatedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:44:43.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Logout.cshtml.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:46:46.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Logout.cshtml",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T15:46:34.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Turmas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Turmas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Turmas\\Delete.cshtml",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Turmas\\Delete.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T15:21:41.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T14:03:46.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Alunos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Alunos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Alunos\\Delete.cshtml",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Alunos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T15:17:15.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T14:03:51.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TurmaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Models\\TurmaViewModel.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Models\\TurmaViewModel.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Models\\TurmaViewModel.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Models\\TurmaViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T14:00:28.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Pages\\Login.cshtml",
+              "RelativeToolTip": "FiapChallenge.Web\\Pages\\Login.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T14:03:27.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Web\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Web\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "FiapChallenge.Web\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:59:52.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Application\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Services\\IAuthService.cs",
+              "RelativeToolTip": "FiapChallenge.Application\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:21:46.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FiapChallenge.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Infrastructure\\FiapChallenge.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "FiapChallenge.Infrastructure\\FiapChallenge.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Infrastructure\\FiapChallenge.Infrastructure.csproj",
+              "RelativeToolTip": "FiapChallenge.Infrastructure\\FiapChallenge.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T22:23:21.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FiapChallenge.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Tests\\FiapChallenge.Tests.csproj",
+              "RelativeDocumentMoniker": "FiapChallenge.Tests\\FiapChallenge.Tests.csproj",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Tests\\FiapChallenge.Tests.csproj",
+              "RelativeToolTip": "FiapChallenge.Tests\\FiapChallenge.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T23:27:50.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAFkHAAAAAAAAAAAlwGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-24T23:06:27.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "FiapChallenge.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Domain\\FiapChallenge.Domain.csproj",
+              "RelativeDocumentMoniker": "FiapChallenge.Domain\\FiapChallenge.Domain.csproj",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Domain\\FiapChallenge.Domain.csproj",
+              "RelativeToolTip": "FiapChallenge.Domain\\FiapChallenge.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T22:09:52.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "TurmaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Validators\\TurmaValidator.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Application\\Validators\\TurmaValidator.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\Validators\\TurmaValidator.cs",
+              "RelativeToolTip": "FiapChallenge.Application\\Validators\\TurmaValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:19:14.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AuthDto.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\DTOs\\AuthDto.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Application\\DTOs\\AuthDto.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\DTOs\\AuthDto.cs",
+              "RelativeToolTip": "FiapChallenge.Application\\DTOs\\AuthDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:16:09.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "MatriculaDto.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\DTOs\\MatriculaDto.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Application\\DTOs\\MatriculaDto.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\DTOs\\MatriculaDto.cs",
+              "RelativeToolTip": "FiapChallenge.Application\\DTOs\\MatriculaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:15:52.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "TurmaDto.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\DTOs\\TurmaDto.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Application\\DTOs\\TurmaDto.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\DTOs\\TurmaDto.cs",
+              "RelativeToolTip": "FiapChallenge.Application\\DTOs\\TurmaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:15:31.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "AlunoDto.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\DTOs\\AlunoDto.cs",
+              "RelativeDocumentMoniker": "FiapChallenge.Application\\DTOs\\AlunoDto.cs",
+              "ToolTip": "C:\\Users\\MJ\\Desktop\\Fiap\\FiapChallenge.Application\\DTOs\\AlunoDto.cs",
+              "RelativeToolTip": "FiapChallenge.Application\\DTOs\\AlunoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:15:04.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

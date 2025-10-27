@@ -1,0 +1,53 @@
+﻿@page
+@model FiapChallenge.Web.Pages.Turmas.CreateModel
+@{
+    ViewData["Title"] = "Nova Turma";
+}
+
+<div class="container mx-auto px-4 py-8 max-w-2xl">
+    <div class="mb-6">
+        <h1 class="text-3xl font-bold text-gray-800">Cadastrar Nova Turma</h1>
+        <a asp-page="Index" class="text-green-600 hover:text-green-800 text-sm">← Voltar para lista</a>
+    </div>
+
+    @if (Model.ErrorMessage != null)
+    {
+        <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-4">
+            @Model.ErrorMessage
+        </div>
+    }
+
+    <div class="bg-white shadow-md rounded-lg p-6">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-4"></div>
+
+            <div class="mb-4">
+                <label asp-for="Turma.Nome" class="block text-gray-700 text-sm font-bold mb-2">Nome da Turma</label>
+                <input asp-for="Turma.Nome" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:ring-2 focus:ring-green-500" required />
+                <span asp-validation-for="Turma.Nome" class="text-red-600 text-sm"></span>
+            </div>
+
+            @* Added minlength and maxlength validation for description (10-250 characters) *@
+            <div class="mb-6">
+                <label asp-for="Turma.Descricao" class="block text-gray-700 text-sm font-bold mb-2">Descrição</label>
+                <textarea asp-for="Turma.Descricao" rows="4"
+                          minlength="10"
+                          maxlength="250"
+                          class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:ring-2 focus:ring-green-500" required></textarea>
+                <p class="text-gray-600 text-xs mt-1">A descrição deve ter entre 10 e 250 caracteres</p>
+                <span asp-validation-for="Turma.Descricao" class="text-red-600 text-sm"></span>
+            </div>
+
+            <div class="flex items-center justify-between">
+                <button type="submit" class="bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-6 rounded-lg focus:outline-none focus:shadow-outline transition duration-200">
+                    Cadastrar
+                </button>
+                <a asp-page="Index" class="text-gray-600 hover:text-gray-800">Cancelar</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,58 @@
+﻿@page
+@model FiapChallenge.Web.Pages.Matriculas.CreateModel
+@{
+    ViewData["Title"] = "Nova Matrícula";
+}
+
+<div class="container mx-auto px-4 py-8 max-w-2xl">
+    <div class="mb-6">
+        <h1 class="text-3xl font-bold text-gray-800">Cadastrar Nova Matrícula</h1>
+        <a asp-page="Index" class="text-purple-600 hover:text-purple-800 text-sm">← Voltar para lista</a>
+    </div>
+
+    @if (Model.ErrorMessage != null)
+    {
+        <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-4">
+            @Model.ErrorMessage
+        </div>
+    }
+
+    <div class="bg-white shadow-md rounded-lg p-6">
+        <form method="post">
+            <div class="mb-4">
+                <label asp-for="Matricula.AlunoId" class="block text-gray-700 text-sm font-bold mb-2">Aluno</label>
+                <select asp-for="Matricula.AlunoId" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:ring-2 focus:ring-purple-500" required>
+                    <option value="">Selecione um aluno</option>
+                    @if (Model.Alunos != null)
+                    {
+                        @foreach (var aluno in Model.Alunos)
+                        {
+                            <option value="@aluno.Id">@aluno.Nome - @aluno.Cpf</option>
+                        }
+                    }
+                </select>
+            </div>
+
+            <div class="mb-6">
+                <label asp-for="Matricula.TurmaId" class="block text-gray-700 text-sm font-bold mb-2">Turma</label>
+                <select asp-for="Matricula.TurmaId" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:ring-2 focus:ring-purple-500" required>
+                    <option value="">Selecione uma turma</option>
+                    @if (Model.Turmas != null)
+                    {
+                        @foreach (var turma in Model.Turmas)
+                        {
+                            <option value="@turma.Id">@turma.Nome</option>
+                        }
+                    }
+                </select>
+            </div>
+
+            <div class="flex items-center justify-between">
+                <button type="submit" class="bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-6 rounded-lg focus:outline-none focus:shadow-outline transition duration-200">
+                    Cadastrar
+                </button>
+                <a asp-page="Index" class="text-gray-600 hover:text-gray-800">Cancelar</a>
+            </div>
+        </form>
+    </div>
+</div>

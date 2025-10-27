@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - FIAP Challenge</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50">
+    <nav class="bg-white shadow-md">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between items-center py-4">
+                <a href="/" class="text-2xl font-bold text-purple-600 hover:text-purple-700">
+                    FIAP Challenge
+                </a>
+
+                <div class="hidden md:flex space-x-6">
+                    <a href="/" class="text-gray-700 hover:text-purple-600 font-medium transition">Dashboard</a>
+                    <a href="/Alunos" class="text-gray-700 hover:text-purple-600 font-medium transition">Alunos</a>
+                    <a href="/Turmas" class="text-gray-700 hover:text-purple-600 font-medium transition">Turmas</a>
+                    <a href="/Matriculas" class="text-gray-700 hover:text-purple-600 font-medium transition">Matrículas</a>
+                </div>
+
+                <a href="/Logout" class="text-gray-700 hover:text-red-600 font-medium transition">
+                    Sair →
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <main role="main" class="min-h-screen">
+        @RenderBody()
+    </main>
+
+    <footer class="bg-white border-t border-gray-200 mt-12">
+        <div class="container mx-auto px-4 py-6 text-center text-gray-600">
+            &copy; 2025 - FIAP Challenge - Desenvolvido para o desafio técnico
+        </div>
+    </footer>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

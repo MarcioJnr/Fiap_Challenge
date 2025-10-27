@@ -1,0 +1,97 @@
+﻿@page
+@model FiapChallenge.Web.Pages.Alunos.IndexModel
+@{
+    ViewData["Title"] = "Alunos";
+}
+
+<div class="container mx-auto px-4 py-8">
+    <div class="flex justify-between items-center mb-6">
+        <h1 class="text-3xl font-bold text-gray-800">Gerenciar Alunos</h1>
+        <a asp-page="Create" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-lg transition duration-200">
+            Novo Aluno
+        </a>
+    </div>
+
+    @* Added error message display *@
+    @if (Model.ErrorMessage != null)
+    {
+        <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-4">
+            <strong>Erro:</strong> @Model.ErrorMessage
+        </div>
+    }
+
+    @* Added debug info to help troubleshoot *@
+    @if (Model.Alunos == null)
+    {
+        <div class="bg-yellow-100 border border-yellow-400 text-yellow-700 px-4 py-3 rounded mb-4">
+            <strong>Debug:</strong> A lista de alunos está nula. Verifique os logs do console para mais detalhes.
+        </div>
+    }
+
+    @if (Model.Alunos != null && Model.Alunos.Any())
+    {
+        <div class="bg-white shadow-md rounded-lg overflow-hidden">
+            <table class="min-w-full divide-y divide-gray-200">
+                <thead class="bg-gray-50">
+                    <tr>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Nome</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">CPF</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Email</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Data Nascimento</th>
+                        <th class="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider">Ações</th>
+                    </tr>
+                </thead>
+                <tbody class="bg-white divide-y divide-gray-200">
+                    @foreach (var aluno in Model.Alunos)
+                    {
+                        <tr class="hover:bg-gray-50">
+                            <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">@aluno.Nome</td>
+                            <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">@aluno.Cpf</td>
+                            <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">@aluno.Email</td>
+                            <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">@aluno.DataNascimento.ToString("dd/MM/yyyy")</td>
+                            <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
+                                <a asp-page="Edit" asp-route-id="@aluno.Id" class="text-blue-600 hover:text-blue-900 mr-3">Editar</a>
+                                <a asp-page="Delete" asp-route-id="@aluno.Id" class="text-red-600 hover:text-red-900">Excluir</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        @* Added pagination controls *@
+        @if (Model.TotalPages > 1)
+        {
+            <div class="flex justify-between items-center mt-6">
+                <div class="text-sm text-gray-700">
+                    Mostrando página <span class="font-semibold">@Model.CurrentPage</span> de <span class="font-semibold">@Model.TotalPages</span>
+                    (Total: <span class="font-semibold">@Model.TotalCount</span> alunos)
+                </div>
+                <div class="flex gap-2">
+                    @if (Model.CurrentPage > 1)
+                    {
+                        <a asp-page="Index" asp-route-pageNumber="@(Model.CurrentPage - 1)"
+                           class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition">
+                            ← Anterior
+                        </a>
+                    }
+                    @if (Model.CurrentPage < Model.TotalPages)
+                    {
+                        <a asp-page="Index" asp-route-pageNumber="@(Model.CurrentPage + 1)"
+                           class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition">
+                            Próxima →
+                        </a>
+                    }
+                </div>
+            </div>
+        }
+    }
+    else if (Model.Alunos != null)
+    {
+        @* Only show "no students" message if list is not null but empty *@
+        <div class="bg-gray-100 border border-gray-300 text-gray-700 px-4 py-8 rounded text-center">
+            <p class="text-lg">Nenhum aluno cadastrado.</p>
+            <a asp-page="Create" class="text-blue-600 hover:text-blue-800 font-semibold mt-2 inline-block">Cadastrar primeiro aluno</a>
+        </div>
+    }
+</div>
