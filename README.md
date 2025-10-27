@@ -71,10 +71,10 @@ Você precisará executar a API e a Aplicação Web separadamente.
         ```bash
         dotnet run
         ```
-    * A aplicação web estará disponível (por padrão) em `https://localhost:7115` (verifique o output do terminal para a URL exata).
+    * A aplicação web estará disponível (por padrão) em `https://localhost:7142` (verifique o output do terminal para a URL exata).
 
 3.  **Acessar a Aplicação:**
-    * Abra o navegador na URL da aplicação web (ex: `https://localhost:7115`).
+    * Abra o navegador na URL da aplicação web (ex: `https://localhost:7142`).
     * Faça login com as credenciais padrão:
         * **Email:** `admin@fiap.com.br`
         * **Senha:** `Admin@123`
