@@ -33,7 +33,7 @@ API RESTful e aplicação Web (Razor Pages) desenvolvida como parte do desafio t
 1.  **Clonar o Repositório:**
     ```bash
     git clone https://github.com/MarcioJnr/Fiap_Challenge.git
-    cd Fiap
+    cd Fiap_Challenge
     ```
 
 2.  **Configurar o Banco de Dados:**
@@ -44,12 +44,12 @@ API RESTful e aplicação Web (Razor Pages) desenvolvida como parte do desafio t
     * Execute o script `dump.sql` completo no banco de dados criado. Isso criará as tabelas e inserirá o usuário administrador inicial (`admin@fiap.com.br`).
 
 3.  **Configurar a String de Conexão da API:**
-    * Abra o arquivo `FiapChallenge.API/appsettings.Development.json`.
+    * Abra o arquivo `FiapChallenge.API/appsettings.json`.
     * Localize a seção `ConnectionStrings`.
     * Ajuste o valor de `DefaultConnection` para corresponder à sua instância do SQL Server e ao banco de dados criado (ex: `"Server=localhost\\SQLEXPRESS01;Database=FiapChallenge;Integrated Security=True;TrustServerCertificate=True"`). Certifique-se de que a autenticação (Integrada ou SQL User/Password) está correta para seu ambiente.
 
 4.  **Configurar a URL da API na Aplicação Web (Opcional - se necessário):**
-    * Abra o arquivo `FiapChallenge.Web/appsettings.Development.json`.
+    * Abra o arquivo `FiapChallenge.Web/appsettings.json`.
     * Verifique se o valor em `ApiSettings:BaseUrl` corresponde à URL base da sua API quando ela estiver rodando (geralmente `https://localhost:7217/api/v1/` conforme configurado no `launchSettings.json` da API).
 
 ## Executando a Aplicação
